@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ちょこれいと",
+  "base_artist": "一二三",
+  "createdAt": "2026-02-25T13:43:21.677106Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ちょこれいと",
+      "artist": "一二三",
+      "has_synced": false,
+      "path": "select/pl_01_ちょこれいと_一二三.txt"
+    }
+  ]
+}
